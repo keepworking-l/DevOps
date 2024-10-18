@@ -7,7 +7,7 @@ public class TestCase {
     @Test
     public void testRight() {
         Cal cal = new Cal();
-        assertEquals(cal.Add(1, 2), 3);
+        assertEquals(cal.Add(1, 2), 4);
         System.out.println("pr1235");
     }
 
